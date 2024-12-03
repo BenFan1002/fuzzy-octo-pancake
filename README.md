@@ -164,7 +164,7 @@ self.max_monitor_delay = 10  # Steps before monitor fails
 
 ## References
 
-- **DonkeyCar Simulator**: [https://www.donkeycar.com/](https://www.donkeycar.com/)
+- **DonkeyCar Simulator**: [https://github.com/tawnkramer/gym-donkeycar/releases/tag/v22.11.06](https://github.com/tawnkramer/gym-donkeycar/releases/tag/v22.11.06)
 - **gym-donkeycar**: [https://github.com/tawnkramer/gym-donkeycar](https://github.com/tawnkramer/gym-donkeycar)
 - **Stable Baselines3**: [https://stable-baselines3.readthedocs.io/](https://stable-baselines3.readthedocs.io/)
-- **OpenAI Gym**: [https://www.gymlibrary.ml/](https://www.gymlibrary.ml/)
+- **OpenAI Gym**: [https://gymnasium.farama.org/](https://gymnasium.farama.org/)
